@@ -1,0 +1,75 @@
+strain	virus	date 	accesion	host	country	region	db	segment	url
+N_France_1994	CABYV	1994-XX-XX	NC_003688.1		France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/NC_003688.1
+Sq_2003_7.2_Spain	CABYV	2003-XX-XX	JF939812.1	Zucchini	Spain	Murcia	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF939812.1
+Sq_2004_1.9_Spain	CABYV	2004-XX-XX	JF939814.1	Zucchini	Spain	Murcia	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF939814.1 
+Sq_2005_9.2_Spain	CABYV	2005-XX-XX	JF939813.1	Zucchini	Spain	Murcia	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF939813.1
+CABYV-CHN_China_2006	CABYV	2006-10-XX	EU000535.1	Cushaw	China	Beijinhg	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU000535.1
+CABYV-CHINA_china_2008	CABYV	2008-XX-XX	EU636992.1	Melon	China	Xinjiang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU636992.1
+CABYV-C-TW20_Taiwan_2008	CABYV	2008-11-08	JQ700305.1		Taiwan	Kaohsiung	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JQ700305.1
+CABYV-R-TW82_Taiwan_2008	CABYV	2008-06-09	JQ700306.1	Luffa	Taiwan	Tainan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JQ700306.1 
+CABYV-JAN_Japan_2009	CABYV	2009-XX-XX	GQ221224.1	Cucumber	Japan	Okayama	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/GQ221224.1
+CABYV-FJ_China_2009	CABYV	2009-XX-XX	GQ221223.1	Zucchini	China	Fujian	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/GQ221223.1 
+CABYV-CZ_China_2010	CABYV	2010-XX-XX	HQ439023.1	Zucchini	China	Beijin	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/HQ439023.1
+2.1Me_M_Mos_2011	CABYV	2011-06-10	OM948842	Melon	Spain	Murcia	genbank	genome	
+11.1Zu_M_Mos_2012	CABYV	2012-11-12	OM948836	Zucchini	Spain	Murcia	genbank	genome	
+7.1Me_M_Mos_2012	CABYV	2012-06-12	OM948851	Melon	Spain	Murcia	genbank	genome	
+NW5_South_Korea_2013	CABYV	2013-07-26	KR231957.1	Melon	South Korea	Namwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231957.1 
+NW2_South_Korea_2013	CABYV	2013-07-26	KR231955.1	Melon	South Korea	Namwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231955.1 
+GM16_South_Korea_2013	CABYV	2013-07-26	KR231946.1	Melon	South Korea	Gumi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231946.1 
+GM7_South_Korea_2013	CABYV	2013-07-26	KR231945.1	Melon	South Korea	Gumi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231945.1 
+CY6_South_Korea_2013	CABYV	2013-09-06	KR231944.1	Melon	South Korea	Cheongyang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231944.1 
+CY3_South_Korea_2013	CABYV	2013-09-06	KR231942.1	Melon	South Korea	Cheongyang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231942.1 
+SW2_South_Korea_2013	CABYV	2013-06-09	KR231961.1	Melon	South Korea	Suwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231961.1 
+9.2Zu_A_Mos_2013	CABYV	2013-06-20	OM948856	Zucchini	Spain	Alicante	genbank	genome	
+2.1Me_M_Mos_2013	CABYV	2013-06-06	OM948843	Melon	Spain	Murcia	genbank	genome	
+K1_South_Korea_2014	CABYV	2014-06-XX	LC082306.1	Melon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/LC082306.1
+SW64_South_Korea_2014	CABYV	2014-07-11	KR231963.1	Melon	South Korea	Suwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231963.1 
+SW25_South_Korea_2014	CABYV	2014-07-11	KR231962.1	Melon	South Korea	Suwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231962.1 
+SW1(14)_South_Korea_2014	CABYV	2014-06-09	KR231960.1	Melon	South Korea	Suwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231960.1
+NW18_South_Korea_2014	CABYV	2014-05-09	KR231958.1	Melon	South Korea	Namwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231958.1 
+SW1_South_Korea_2014	CABYV	2014-06-09	KR231959.1	Melon	South Korea	Suwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231959.1 
+NW2(14)_South_Korea_2014	CABYV	2014-08-14	KR231956.1	Melon	South Korea	Namwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231956.1 
+NW1_South_Korea_2014	CABYV	2014-08-14	KR231954.1	Melon	South Korea	Namwon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231954.1 
+HS2_South_Korea_2014	CABYV	2014-08-20	KR231953.1	Melon	South Korea	Hoengseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231953.1 
+HS1_South_Korea_2014	CABYV	2014-08-20	KR231952.1	Melon	South Korea	Hoengseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231952.1 
+HD118_South_Korea_2014	CABYV	2014-09-18	KR231951.1	Melon	South Korea	Hadong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231951.1  
+HD1_South_Korea_2014	CABYV	2014-09-18	KR231950.1	Melon	South Korea	Hadong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231950.1  
+GS6_South_Korea_2014	CABYV	2014-08-14	KR231949.1	Melon	South Korea	Gokseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231949.1 
+GS2_South_Korea_2014	CABYV	2014-08-14	KR231948.1	Melon	South Korea	Gokseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231948.1 
+GS1_South_Korea_2014	CABYV	2014-07-11	KR231947.1	Melon	South Korea	Gokseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231947.1 
+CY4_South_Korea_2014	CABYV	2014-07-25	KR231943.1	Melon	South Korea	Cheongyang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KR231943.1
+8.1Me_A_Mos_2014	CABYV	2014-06-19	OM948852	Melon	Spain	Alicante	genbank	genome	
+1.1Me_M_Yel_2014	CABYV	2014-06-23	OM948834	Melon	Spain	Murcia	genbank	genome	
+9.1Me_M_Mos_2014	CABYV	2014-06-23	OM948854	Melon	Spain	Murcia	genbank	genome	
+MEC-12_Spain_2014	CABYV	2014-07-02	MW051362  	Melon	Spain	Murcia	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MW051362.1
+23.1Me_M_Yel_2015	CABYV	2015-07-25	OM948846	Melon	Spain	Murcia	genbank	genome	
+19.1Me_M_Mos_2015	CABYV	2015-07-24	OM948839	Melon	Spain	Murcia	genbank	genome	
+18.1Zu_A_Mos_2015	CABYV	2015-07-21	OM948838	Zucchini	Spain	Alicante	genbank	genome	
+2.1Zu_M_Mos_2015	CABYV	2015-06-16	OM948844	Zucchini	Spain	Murcia	genbank	genome	
+WM-YS10_South_Korea_2016	CABYV	2016-07-08	MG257903.1	Watermelon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MG257903.1
+M-CY31_South_Korea_2016	CABYV	2016-07-08	MG257902.1	Melon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MG257902.1
+M-BY1_South_Korea_2016	CABYV	2016-07-08	MG257901.1	Melon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MG257901.1
+C-HS1_South_Korea_2016	CABYV	2016-07-08	MG257900.1	Cucumber	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MG257900.1
+C-AS1_South_Korea_2016	CABYV	2016-07-08	MG257899.1	Cucumber	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MG257899.1
+10PN_Papua_NGuinea_2016	CABYV	2016-10-XX	MG780352.1	Cucumber	Papaua New Guinea	Papaua New Guinea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MG780352.1 
+EM160093_France_2016	CABYV	2016-01-01	MT027103.1	Melon	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MT027103.1
+18.1Me_A_Yel_2016	CABYV	2016-07-13	OM948837	Melon	Spain	Alicante	genbank	genome	
+8.1Me_M_Mos_2016	CABYV	2016-06-30	OM948853	Melon	Spain	Murcia	genbank	genome	
+3.2Me_M_Yel_2017	CABYV	2017-06-17	OM948847	Melon	Spain	Murcia	genbank	genome	
+CABYV-QY_China_2017	CABYV	2017-09-10	MT943520.1	Cucumber	China	Henan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MT943520.1
+CABYV_Indonesia_2017	CABYV	2017-03-26	LC472499.1	Cucumber	Indonesia	East Java	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/LC472499.1
+BL-4_USA_2017	CABYV	2017-09-16	MK055337.1	Pumpkin	USA	Oklahoma	genbank	genome	https://pubmed.ncbi.nlm.nih.gov/30746518/
+67.1Zu_M_Mos_2018	CABYV	2018-11-16	OM948850	Zucchini	Spain	Murcia	genbank	genome	
+64.2Me_CLM_Mos_2018	CABYV	2018-09-13	OM948857	Melon	Spain	C. La Mancha	genbank	genome	
+POL-SQ_India_2018	CABYV	2018-03-XX	MN688219.1	Zucchini	India	Varanasi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN688219.1
+POL-WM_India_2019	CABYV	2019-04-XX	MN688220.1	Watermelon	India	Varanasi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN688220.1
+19.1Me_M_Mos_2019	CABYV	2019-06-27	OM948840	Melon	Spain	Murcia	genbank	genome	
+9.1Me_M_Mos_2019	CABYV	2019-07-04	OM948855	Melon	Spain	Murcia	genbank	genome	
+19.1Zu_A_Yel_2019	CABYV	2019-07-16	OM948841	Zucchini	Spain	Alicante	genbank	genome	
+22.1Zu_M_Yel_2019	CABYV	2019-06-29	OM948845	Zucchini	Spain	Murcia	genbank	genome	
+LP63_Spain_2019	CABYV	2019-09-04	MW051363.1	Watermelon	Spain	Murcia	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MW051363.1 
+59.1Me_A_Yel_2020	CABYV	2020-07-15	OM948849	Melon	Spain	Alicante	genbank	genome	
+GJ_South_Korea_2020	CABYV	2020-11-XX	MW509732.1	Melon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MW509732.1
+10.1Zu_M_Yel_2020	CABYV	2020-06-04	OM948835	Zucchini	Spain	Murcia	genbank	genome	
+53.1Me_Mu_Yel_2020	CABYV	2020-07-10	OM948848	Melon	Spain	Murcia	genbank	genome	
+Cumber-AS-kr1_South_Korea_2021	CABYV	2021-05-01	MZ508305.1	Melon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MZ508305.1
